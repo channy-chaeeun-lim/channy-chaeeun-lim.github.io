@@ -419,11 +419,6 @@ ninja.data = [{
           description: "Identifying and mitigating systematic bias in 3D perception tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -454,6 +449,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_3/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
