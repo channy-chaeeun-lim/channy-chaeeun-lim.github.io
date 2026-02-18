@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: 'The "Lying" Eyes: Biases in 3D Perception'
+description: Identifying and mitigating systematic bias in 3D perception tasks.
 img: assets/img/3.jpg
 importance: 2
 category: work

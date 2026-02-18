@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Cognitive Ergonomics: Designing Inputs for Focus
+description: Input design patterns that sustain attention and reduce cognitive load.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

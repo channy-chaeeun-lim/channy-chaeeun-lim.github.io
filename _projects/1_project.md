@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Designing optimal targets for XR
+description: Interaction targets that improve accuracy and comfort in mixed reality.
 img: assets/img/12.jpg
 importance: 1
 category: work
