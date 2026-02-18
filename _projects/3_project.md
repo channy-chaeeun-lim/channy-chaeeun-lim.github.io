@@ -5,6 +5,7 @@ description: Input design patterns that sustain attention and reduce cognitive l
 img: assets/img/7.jpg
 importance: 3
 category: work
+featured: true
 ---
 
 Every project has a beautiful feature showcase page.

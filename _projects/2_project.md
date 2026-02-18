@@ -5,6 +5,7 @@ description: Identifying and mitigating systematic bias in 3D perception tasks.
 img: assets/img/3.jpg
 importance: 2
 category: work
+featured: true
 giscus_comments: true
 ---
 

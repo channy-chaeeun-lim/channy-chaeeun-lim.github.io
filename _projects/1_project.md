@@ -5,6 +5,7 @@ description: Interaction targets that improve accuracy and comfort in mixed real
 img: assets/img/12.jpg
 importance: 1
 category: work
+featured: true
 related_publications: true
 ---
 
