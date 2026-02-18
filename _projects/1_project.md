@@ -8,18 +8,8 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Why do 2D design rules fail in a 3D world? We often assume interacting in VR is as simple as tapping a smartphone screen. However, XR introduces a fundamental friction: the lack of tactile feedback and the natural biological "jitter" of eye-gaze and hand-tracking inputs. While controller-free interaction feels natural, it lacks the pixel-perfect precision of a mouse or touchscreen. This created a critical need to establish new, evidence-based standards for target sizing and interaction features specifically for XR.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
