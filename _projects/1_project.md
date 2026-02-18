@@ -25,5 +25,3 @@ related_publications: true
 </div>
 
 **Impact:** Shaping the Material Design Language for XR. This research provided the empirical foundation for Material Design's adaptation to the XR space. By quantifying the critical trade-off between ergonomic accuracy (which requires larger targets) and information density (which demands compact UI), my work delivered a strategic roadmap for the design system. These findings provided the foundational standards that help designers and developers build immersive applications that are comfortable and intuitive, without sacrificing design intent.
-
-
