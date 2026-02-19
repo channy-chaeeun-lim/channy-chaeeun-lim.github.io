@@ -419,6 +419,11 @@ ninja.data = [{
           description: "Identifying and mitigating systematic bias in 3D perception tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-cognitive-ergonomics-designing-inputs-for-focus",
+          title: 'Cognitive Ergonomics: Designing Inputs for Focus',
+          description: "Input design patterns that sustain attention and reduce cognitive load.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
