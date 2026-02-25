@@ -12,7 +12,7 @@ related_publications: true
 **Google \| UX Research Intern (Material Design)** - Collaborating with the Android XR Team
 
 <div class="row justify-content-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
     {% include video.liquid path="assets/video/video-VR.mp4" class="img-fluid rounded z-depth-1" title="XR target sizing study" autoplay=true loop=true muted=true controls=true %}
   </div>
 </div>
