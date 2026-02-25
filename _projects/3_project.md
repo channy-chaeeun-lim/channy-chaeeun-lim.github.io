@@ -30,5 +30,5 @@ I used an **Aimed-Movement Paradigm** (reaching from a home key to a target key)
 
 **Related Publications & Presentations:**
 
-- [Publication/Conference Link 1](https://link.springer.com/article/10.1007/s00426-020-01376-3)
-- [Publication/Conference Link 2](#)
+- [Lim, C. E., & Cho, Y. S. (2021). Response mode modulates the congruency sequence effect in spatial conflict tasks: Evidence from aimed-movement responses. Psychological Research, 85(5), 2047-2068.](https://link.springer.com/article/10.1007/s00426-020-01376-3)
+- [Kim, M. J., Lim, C. E., Rheem, H., Lee, N., & Cho, Y. S. (2025). Spatiotemporal dynamics of mouse tracking reveal general and selective control mechanisms of the congruency sequence effect in Simon tasks. Cognition, 264, 106259.](https://www.sciencedirect.com/science/article/abs/pii/S0010027725001994)
