@@ -414,8 +414,8 @@ ninja.data = [{
           description: "Interaction targets that improve accuracy and comfort in mixed reality.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-the-quot-lying-quot-eyes-biases-in-3d-perception",
-          title: 'The &amp;quot;Lying&amp;quot; Eyes: Biases in 3D Perception',
+            },},{id: "projects-the-quot-lying-quot-eye-biases-in-3d-perception",
+          title: 'The &amp;quot;Lying&amp;quot; Eye: Biases in 3D Perception',
           description: "Identifying and mitigating systematic bias in 3D perception tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
