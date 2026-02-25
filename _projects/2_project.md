@@ -6,7 +6,6 @@ img: assets/img/3.jpg
 importance: 2
 category: work
 featured: true
-giscus_comments: true
 ---
 
 **Brown University \| PhD Researcher (Vision Science)**
@@ -26,5 +25,5 @@ giscus_comments: true
 
 **Related Publications & Presentations:**
 
-- [Publication/Conference Link 1](https://www.nature.com/articles/s41598-025-88214-x)
+- [Lim, C., Vishwanath, D., & Domini, F. (2025). Sensorimotor adaptation reveals systematic biases in 3D perception. Scientific Reports, 15(1), 3847.](https://www.nature.com/articles/s41598-025-88214-x)
 - [Publication/Conference Link 2](https://jov.arvojournals.org/article.aspx?articleid=2792585)
