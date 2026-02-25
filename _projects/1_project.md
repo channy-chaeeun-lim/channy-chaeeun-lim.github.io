@@ -6,7 +6,6 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 featured: true
-related_publications: true
 ---
 
 **Google \| UX Research Intern (Material Design)** - Collaborating with the Android XR Team

@@ -25,3 +25,10 @@ I used an **Aimed-Movement Paradigm** (reaching from a home key to a target key)
 2. **Control is "In-Flight":** Surprisingly, this benefit appeared most strongly in **Movement Time**. This proves that with the right layout, the brain continues to actively filter distractions and correct errors _during the physical motion itself_.
 
 **Impact: A Cognitive Framework for Interface Layout.** This research provides strong evidence that the **conceptual and physical grouping of controls matters** for safety and efficiency. It offers a clear framework for UI designers: complex interfaces should unify related inputs physically. A well-designed control scheme can offload cognitive work from the user, making it easier to naturally inhibit distractions and reduce error rates in high-stakes environments.
+
+---
+
+**Related Publications & Presentations:**
+
+- [Publication/Conference Link 1](https://link.springer.com/article/10.1007/s00426-020-01376-3)
+- [Publication/Conference Link 2](#)

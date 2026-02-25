@@ -21,3 +21,10 @@ giscus_comments: true
 2. **The Realism Paradox:** Surprisingly, adding realistic cues like shading and texture _increased_ this perceptual error.
 
 **Impact: Design for Adaptation, not just Geometry.** Crucially, I found that despite these biases, users can still perform successful actions because our motor system automatically adapts via **online correction**. This implies that achieving "natural" interaction isn't about rendering perfect physical geometry. Instead, systems should prioritize **sensory feedback loops** (like visual cursors or haptic confirmation) that allow users to leverage their natural adaptation mechanisms to close the gap between what they see and what they touch.
+
+---
+
+**Related Publications & Presentations:**
+
+- [Publication/Conference Link 1](https://www.nature.com/articles/s41598-025-88214-x)
+- [Publication/Conference Link 2](https://jov.arvojournals.org/article.aspx?articleid=2792585)
