@@ -9,7 +9,7 @@ featured: true
 related_publications: true
 ---
 
-**Google | UX Research Intern (Material Design)** _Collaborating with the Android XR Team_
+**Google \| UX Research Intern (Material Design)** _Collaborating with the Android XR Team_
 
 **Why do 2D design rules fail in a 3D world?** We often assume interacting in VR is as simple as tapping a smartphone screen. However, XR introduces a fundamental friction: the lack of tactile feedback and the natural biological "jitter" of eye-gaze and hand-tracking inputs. While controller-free interaction feels natural, it lacks the pixel-perfect precision of a mouse or touchscreen. This created a critical need to establish new, evidence-based standards for target sizing and interaction features specifically for XR.
 
