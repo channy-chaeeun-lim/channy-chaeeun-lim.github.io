@@ -14,10 +14,22 @@ featured: true
 
 **I developed an "Ecological Metric" to reveal hidden biases.** Traditional studies often rely on verbal reports or relative measurements, which are prone to conscious guessing and often lack ecological validity. To overcome this, I designed a **sensorimotor adaptation task** in a haptic-enabled VR environment. By asking participants to naturally reach for and grasp virtual objects, I measured the _true_ perceptual bias experienced by the sensory system—capturing the "unconscious" error that occurs before the brain corrects for it.
 
+<div class="row justify-content-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/proj2_stim.png" title="Experimental stimuli" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 **Findings: Our perception is biased, but our actions adapt.** My data provided conclusive evidence of two systematic errors:
 
 1. **Overestimation:** We consistently perceive objects in near-space as farther and deeper (more elongated) than they physically are.
 2. **The Realism Paradox:** Surprisingly, adding realistic cues like shading and texture _increased_ this perceptual error.
+
+<div class="row justify-content-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/proj2_result.png" title="Research results" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 **Impact: Design for Adaptation, not just Geometry.** Crucially, I found that despite these biases, users can still perform successful actions because our motor system automatically adapts via **online correction**. This implies that achieving "natural" interaction isn't about rendering perfect physical geometry. Instead, systems should prioritize **sensory feedback loops** (like visual cursors or haptic confirmation) that allow users to leverage their natural adaptation mechanisms to close the gap between what they see and what they touch.
 
