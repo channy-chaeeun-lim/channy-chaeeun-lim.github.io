@@ -12,6 +12,18 @@ featured: true
 
 **Can the physical layout of buttons help the brain filter out distractions?** In any interface, we are bombarded with "task-irrelevant" information—like the position of a button distracting us from its label. When this irrelevant information triggers a conflicting impulse, it slows us down. I investigated whether the physical topology of an interface (e.g., how we move our hands) changes how our brain processes this conflict. Specifically, I asked: _Can the spatial arrangement of controls intrinsically help users filter out noise?_
 
+<div class="row justify-content-center mt-3">
+	<div class="col-sm-10">
+		<iframe
+			src="{{ '/assets/pdf/proj3_poster.pdf' | relative_url }}"
+			width="100%"
+			height="900"
+			style="border: 0"
+			title="Project 3 Poster"
+		></iframe>
+	</div>
+</div>
+
 **I designed an experiment alternating between Horizontal and Vertical tasks.** To understand how the brain maps space, I compared two response layouts for handling **Horizontally** (Left/Right) and **Vertically** (Up/Down) arranged stimuli:
 
 - **Unified Mode:** Performing both horizontal and vertical tasks with a **single hand** (grouping controls).

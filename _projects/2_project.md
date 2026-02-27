@@ -16,7 +16,7 @@ featured: true
 
 <div class="row justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/proj2_stim.png" title="Experimental stimuli" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/proj2_photo.jpg" title="Experimental stimuli" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -38,4 +38,4 @@ featured: true
 **Related Publications & Presentations:**
 
 - [Lim, C., Vishwanath, D., & Domini, F. (2025). Sensorimotor adaptation reveals systematic biases in 3D perception. Scientific Reports, 15(1), 3847.](https://www.nature.com/articles/s41598-025-88214-x)
-- [Publication/Conference Link 2](https://jov.arvojournals.org/article.aspx?articleid=2792585)
+- <a href="{{ '/assets/pdf/proj2_poster.pdf' | relative_url }}" target="_blank" rel="noopener">Lim, C., Vishwanath, D., & Domini, F. (2024). Interplay of exocentric and egocentric information in distance perception for visuomotor tasks. Vision Sciences Society Annual Meeting, FL, United States.</a>
