@@ -2,9 +2,9 @@
 layout: page
 title: 'The "Lying" Eye: Biases in 3D Perception'
 description: Identifying and mitigating systematic bias in 3D perception tasks.
-img: assets/img/3.jpg
+img: assets/img/proj1_thumb.jpg
 importance: 2
-category: work
+category: research
 featured: true
 ---
 
@@ -38,4 +38,5 @@ featured: true
 **Related Publications & Presentations:**
 
 - [Lim, C., Vishwanath, D., & Domini, F. (2025). Sensorimotor adaptation reveals systematic biases in 3D perception. Scientific Reports, 15(1), 3847.](https://www.nature.com/articles/s41598-025-88214-x)
-- <a href="{{ '/assets/pdf/proj2_poster.pdf' | relative_url }}" target="_blank" rel="noopener">Lim, C., Vishwanath, D., & Domini, F. (2024). Interplay of exocentric and egocentric information in distance perception for visuomotor tasks. Vision Sciences Society Annual Meeting, FL, United States.</a>
+- <a href="https://www.nature.com/articles/s41598-025-88214-x.pdf" target="_blank" rel="noopener">Lim, C., Vishwanath, D., & Domini, F. (2025). Sensorimotor adaptation reveals systematic biases in 3D perception. Scientific Reports, 15(1), 3847.</a>
+- <a href="{{ '/assets/pdf/proj2_poster.pdf' | absolute_url }}" target="_blank" rel="noopener">Lim, C., Vishwanath, D., & Domini, F. (2024). Interplay of exocentric and egocentric information in distance perception for visuomotor tasks. Vision Sciences Society Annual Meeting, FL, United States.</a>

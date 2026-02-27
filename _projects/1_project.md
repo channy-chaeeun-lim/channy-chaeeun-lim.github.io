@@ -2,9 +2,9 @@
 layout: page
 title: Designing optimal targets for XR
 description: Interaction targets that improve accuracy and comfort in mixed reality.
-img: assets/img/12.jpg
+img: assets/img/proj1_thumb.png
 importance: 1
-category: work
+category: research
 featured: true
 ---
 

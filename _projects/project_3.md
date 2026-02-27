@@ -4,7 +4,7 @@ title: Cognitive Ergonomics: Designing Inputs for Focus
 description: Input design patterns that sustain attention and reduce cognitive load.
 img: assets/img/7.jpg
 importance: 3
-category: work
+category: research
 featured: true
 ---
 
