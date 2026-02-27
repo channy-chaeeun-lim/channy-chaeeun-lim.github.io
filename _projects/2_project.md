@@ -2,7 +2,7 @@
 layout: page
 title: 'The "Lying" Eye: Biases in 3D Perception'
 description: Identifying and mitigating systematic bias in 3D perception tasks.
-img: assets/img/proj1_thumb.jpg
+img: assets/img/proj2_thumb.jpg
 importance: 2
 category: research
 featured: true
