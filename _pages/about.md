@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher specializing in user's perception, cognition, and action \| 1992eun@gmail.com
+subtitle: 1992eun@gmail.com
 
 profile:
-  align: right
+  align: left
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -39,6 +39,8 @@ Currently, as a Ph.D. Candidate in Cognitive Science at [Brown University](https
 
 By mastering these two pillars, I have developed a holistic view of the user interaction cycle: how we see an interface, how we process the information, and how we physically execute action.
 
+<br>
+
 ### My Core Toolkit
 
 - **Research Methods:** Mixed-Methods Design, Behavioral & Psychophysics VR Experiments, Chronometric Analysis, Usability Testing.
@@ -46,4 +48,13 @@ By mastering these two pillars, I have developed a holistic view of the user int
 - **Domain Expertise:** AR/VR/XR Interactions, Human Factors Engineering, Motor Control, Vision Science.
 - **Languages:** Trilingual (English, Korean, and currently learning a third!).
 
+<br>
+
+### For More
 Feel free to reach out—I'd love to connect!
+
+- [Google Scholar](https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra)
+- [LinkedIn](https://www.linkedin.com/in/chaeeun-lim)
+- <a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV (PDF)</a>
+
+
