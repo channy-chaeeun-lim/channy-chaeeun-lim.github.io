@@ -28,6 +28,8 @@ Hi, I'm Channy! 👋
 
 I am a UX Researcher and Cognitive Psychologist dedicated to designing systems that align with the natural characteristics and limitations of human perception and cognition. I specialize in bridging the gap between rigorous academic science and real-world product design—transforming empirical evidence into actionable design strategies to create experiences where users naturally make fewer errors and genuinely feel "understood" by the products they use.
 
+<div class="clearfix"></div>
+
 Most recently, I applied this philosophy as a UX Research Intern at [Google](https://about.google) ([Material Design](https://m3.material.io/) & [Android XR](https://developer.android.com/xr)). There, I led mixed-methods research to establish foundational design guidelines that allow users to have efficient, comfortable interactions in the XR space—ultimately building a scientific foundation for more natural interactions in spatial computing.
 
 This ability to bridge science and design comes from my mastery of two distinct domains: perception and cognition.
@@ -47,6 +49,11 @@ By mastering these two pillars, I have developed a holistic view of the user int
 
 <br>
 
-Feel free to reach out—I'd love to connect!
-
-<a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV</a> \| <a href="https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener">Google Scholar</a> \| <a href="https://www.linkedin.com/in/chaeeun-lim" target="_blank" rel="noopener">LinkedIn</a>
+<div class="text-center" style="margin-top: 0.5rem;">
+  <p style="font-size: 1.6rem; margin-bottom: 0.75rem;">Feel free to reach out—I'd love to connect!</p>
+  <p style="font-size: 1.8rem; margin-bottom: 0;">
+    <a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV</a> |
+    <a href="https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener">Google Scholar</a> |
+    <a href="https://www.linkedin.com/in/chaeeun-lim" target="_blank" rel="noopener">LinkedIn</a>
+  </p>
+</div>
