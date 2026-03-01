@@ -50,8 +50,8 @@ By mastering these two pillars, I have developed a holistic view of the user int
 <br>
 
 <div class="text-center" style="margin-top: 0.5rem;">
-  <p style="font-size: 1.6rem; margin-bottom: 0.75rem;">Feel free to reach out—I'd love to connect!</p>
-  <p style="font-size: 1.8rem; margin-bottom: 0;">
+  <p style="font-size: 1.3rem; margin-bottom: 0.75rem;">Feel free to reach out—I'd love to connect!</p>
+  <p style="font-size: 1.3rem; margin-bottom: 0;">
     <a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV</a> |
     <a href="https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener">Google Scholar</a> |
     <a href="https://www.linkedin.com/in/chaeeun-lim" target="_blank" rel="noopener">LinkedIn</a>
