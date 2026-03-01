@@ -12,7 +12,7 @@ featured: true
 
 **Do you trust your own perception of 3D space?** We interact with the 3D world constantly and effortlessly. However, my research asks a critical question: _Is our perception actually accurate?_ For example, that building you are looking at might not be as far as you perceive, or the apple in the tree might not be as big as you think.
 
-**I developed an "Ecological Metric" to reveal hidden biases.** Traditional studies often rely on verbal reports or relative measurements, which are prone to conscious guessing and often lack ecological validity. To overcome this, I designed a **sensorimotor adaptation task** in a haptic-enabled VR environment. By asking participants to naturally reach for and grasp virtual objects, I measured the _true_ perceptual bias experienced by the sensory system—capturing the "unconscious" error that occurs before the brain corrects for it.
+**I developed an "Ecological Metric" to reveal hidden biases.** Traditional studies often rely on verbal reports or relative measurements, which are prone to conscious guessing and often lack ecological validity. To overcome this, I designed a sensorimotor adaptation task in a haptic-enabled VR environment. By asking participants to naturally reach for and grasp virtual objects, I measured the _true_ perceptual bias experienced by the sensory system—capturing the "unconscious" error that occurs before the brain corrects for it.
 
 <div class="row justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -31,7 +31,7 @@ featured: true
   </div>
 </div>
 
-**Impact: Design for Adaptation, not just Geometry.** Crucially, I found that despite these biases, users can still perform successful actions because our motor system automatically adapts via **online correction**. This implies that achieving "natural" interaction isn't about rendering perfect physical geometry. Instead, systems should prioritize **sensory feedback loops** (like visual cursors or haptic confirmation) that allow users to leverage their natural adaptation mechanisms to close the gap between what they see and what they touch.
+**Design for Adaptation, not just Geometry.** Crucially, I found that despite these biases, users can still perform successful actions because our motor system automatically adapts via online correction. This implies that achieving "natural" interaction isn't about rendering perfect physical geometry. Instead, systems should prioritize sensory feedback loops (like visual cursors or haptic confirmation) that allow users to leverage their natural adaptation mechanisms to close the gap between what they see and what they touch.
 
 ---
 

@@ -30,9 +30,9 @@ I am a UX Researcher and Cognitive Psychologist dedicated to designing systems t
 
 Most recently, I applied this philosophy as a UX Research Intern at [Google](https://about.google) ([Material Design](https://m3.material.io/) & [Android XR](https://developer.android.com/xr)). There, I led mixed-methods research to establish foundational design guidelines that allow users to have efficient, comfortable interactions in the XR space—ultimately building a scientific foundation for more natural interactions in spatial computing.
 
-This ability to bridge science and design comes from my mastery of two distinct domains: **perception** and **cognition**.
+This ability to bridge science and design comes from my mastery of two distinct domains: perception and cognition.
 
-Currently, as a Ph.D. Candidate in Cognitive Science at [Brown University](https://www.brown.edu) (expected May 2026) working with the [3D Information for Perception & Action Lab](https://sites.brown.edu/3dipalab/), my research explores our **perceptual limitations**—uncovering hidden biases in human 3D perception and how our motor systems cleverly adapt to them. Prior to this, during my M.S. in Behavioral and Cognitive Neuroscience at [Korea University](https://www.korea.ac.kr/sites/en/index.do), I built my expertise in our **cognitive limitations** at [Human Performance Lab](http://hplab.korea.ac.kr), investigating human response tendencies, multi-tasking, and how the brain handles distraction and response inhibition.
+Currently, as a Ph.D. Candidate in Cognitive Science at [Brown University](https://www.brown.edu) (expected May 2026) working with the [3D Information for Perception & Action Lab](https://sites.brown.edu/3dipalab/), my research explores our perceptual limitations—uncovering hidden biases in human 3D perception and how our motor systems cleverly adapt to them. Prior to this, during my M.S. in Behavioral and Cognitive Neuroscience at [Korea University](https://www.korea.ac.kr/sites/en/index.do), I built my expertise in our cognitive limitations at [Human Performance Lab](http://hplab.korea.ac.kr), investigating human response tendencies, multi-tasking, and how the brain handles distraction and response inhibition.
 
 By mastering these two pillars, I have developed a holistic view of the user interaction cycle: how we see an interface, how we process the information, and how we physically execute action.
 
@@ -47,8 +47,6 @@ By mastering these two pillars, I have developed a holistic view of the user int
 
 <br>
 
-### For More
-
 Feel free to reach out—I'd love to connect!
 
-Check out my <a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV</a> | <a href="https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener">Google Scholar</a> | <a href="https://www.linkedin.com/in/chaeeun-lim" target="_blank" rel="noopener">LinkedIn</a>
+<a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV</a> \| <a href="https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener">Google Scholar</a> \| <a href="https://www.linkedin.com/in/chaeeun-lim" target="_blank" rel="noopener">LinkedIn</a>

@@ -18,19 +18,19 @@ featured: true
   </div>
 </div>
 
-**I designed an experiment alternating between Horizontal and Vertical tasks.** To understand how the brain maps space, I compared two response layouts for handling **Horizontally** (Left/Right) and **Vertically** (Up/Down) arranged stimuli:
+**I designed an experiment alternating between Horizontal and Vertical tasks.** To understand how the brain maps space, I compared two response layouts for handling Horizontally (Left/Right) and Vertically (Up/Down) arranged stimuli:
 
 - **Unified Mode:** Performing both horizontal and vertical tasks with a **single hand** (grouping controls).
 - **Separated Mode:** Performing horizontal tasks with the left hand and vertical tasks with the right hand (splitting controls).
 
-I used an **Aimed-Movement Paradigm** (reaching from a home key to a target key) for two strategic reasons: 1) It allowed a single hand to naturally access the full 2D space, and 2) It allowed me to decompose reaction time. By separating Initiation Time (planning) from Movement Time (execution), I could observe exactly when the cognitive filter operates—from the moment of thought to the final button press.
+I used an Aimed-Movement Paradigm (reaching from a home key to a target key) for two strategic reasons: 1) It allowed a single hand to naturally access the full 2D space, and 2) It allowed me to decompose reaction time. By separating Initiation Time (planning) from Movement Time (execution), I could observe exactly when the cognitive filter operates—from the moment of thought to the final button press.
 
 **Findings: Unified inputs create a "Shared Cognitive Space."** My results demonstrated that the physical design of controls profoundly alters cognitive processing:
 
-1. **Unified Controls Merge Spatial Maps:** When users used the **Unified Mode**, the brain "reconfigured" the distinct Horizontal and Vertical dimensions into a single mental category. This allowed the brain to successfully **transfer cognitive control**—applying a "focus strategy" learned in the horizontal task to solve the vertical task.
-2. **Control is "In-Flight":** Surprisingly, this benefit appeared most strongly in **Movement Time**. This proves that with the right layout, the brain continues to actively filter distractions and correct errors _during the physical motion itself_.
+1. **Unified Controls Merge Spatial Maps:** When users used the Unified Mode, the brain "reconfigured" the distinct Horizontal and Vertical dimensions into a single mental category. This allowed the brain to successfully transfer cognitive control—applying a "focus strategy" learned in the horizontal task to solve the vertical task.
+2. **Control is "In-Flight":** Surprisingly, this benefit appeared most strongly in Movement Time. This proves that with the right layout, the brain continues to actively filter distractions and correct errors _during the physical motion itself_.
 
-**Impact: A Cognitive Framework for Interface Layout.** This research provides strong evidence that the **conceptual and physical grouping of controls matters** for safety and efficiency. It offers a clear framework for UI designers: complex interfaces should unify related inputs physically. A well-designed control scheme can offload cognitive work from the user, making it easier to naturally inhibit distractions and reduce error rates in high-stakes environments.
+**A Cognitive Framework for Interface Layout** This research provides strong evidence that the conceptual and physical grouping of controls matters for safety and efficiency. It offers a clear framework for UI designers: complex interfaces should unify related inputs physically. A well-designed control scheme can offload cognitive work from the user, making it easier to naturally inhibit distractions and reduce error rates in high-stakes environments.
 
 ---
 
