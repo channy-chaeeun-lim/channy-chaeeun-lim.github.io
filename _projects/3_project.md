@@ -20,7 +20,7 @@ featured: true
 
 **I designed an experiment alternating between Horizontal and Vertical tasks.** To understand how the brain maps space, I compared two response layouts for handling Horizontally (Left/Right) and Vertically (Up/Down) arranged stimuli:
 
-- **Unified Mode:** Performing both horizontal and vertical tasks with a **single hand** (grouping controls).
+- **Unified Mode:** Performing both horizontal and vertical tasks with a single hand (grouping controls).
 - **Separated Mode:** Performing horizontal tasks with the left hand and vertical tasks with the right hand (splitting controls).
 
 I used an Aimed-Movement Paradigm (reaching from a home key to a target key) for two strategic reasons: 1) It allowed a single hand to naturally access the full 2D space, and 2) It allowed me to decompose reaction time. By separating Initiation Time (planning) from Movement Time (execution), I could observe exactly when the cognitive filter operates—from the moment of thought to the final button press.
