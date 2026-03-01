@@ -8,10 +8,7 @@ profile:
   align: left
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: false
 social: false
@@ -51,10 +48,7 @@ By mastering these two pillars, I have developed a holistic view of the user int
 <br>
 
 ### For More
+
 Feel free to reach out—I'd love to connect!
 
-- [Google Scholar](https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra)
-- [LinkedIn](https://www.linkedin.com/in/chaeeun-lim)
-- <a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV (PDF)</a>
-
-
+Check out my <a href="{{ '/assets/pdf/cv.pdf' | absolute_url }}" target="_blank" rel="noopener">CV</a> | <a href="https://scholar.google.com/citations?user=x5lPNdgAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener">Google Scholar</a> | <a href="https://www.linkedin.com/in/chaeeun-lim" target="_blank" rel="noopener">LinkedIn</a>
