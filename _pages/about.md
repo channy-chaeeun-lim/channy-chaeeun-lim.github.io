@@ -42,10 +42,9 @@ By mastering these two pillars, I have developed a holistic view of the user int
 
 ### My Core Toolkit
 
-- **Research Methods:** Mixed-Methods Design, Behavioral & Psychophysics VR Experiments, Chronometric Analysis, Usability Testing.
-- **Technical Skills:** Python (Pandas, NumPy), R (ggplot), SQL, Qualtrics.
-- **Domain Expertise:** AR/VR/XR Interactions, Human Factors Engineering, Motor Control, Vision Science.
-- **Languages:** Trilingual (English, Korean, and currently learning a third!).
+- **Research Methods:** Mixed-Methods Research, Behavioral & Psychophysics Experiments, VR Experiments, Motion Tracking, Usability Testing, Statistical Modeling.
+- **Technical Skills:** Python, R (ggplot), Matlab, C++, OpenGL.
+- **Domain Expertise:** AR/VR/XR Interactions, Human Factors Engineering, Vision Science, Cognitive Control, Motor Control
 
 <br>
 
